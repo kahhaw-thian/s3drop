@@ -65,7 +65,7 @@ pip install boto3 requests
 #### 4. Download S3Drop
 
 ```bash
-curl -O https://raw.githubusercontent.com/your-username/s3drop/main/s3drop.py
+curl -O https://raw.githubusercontent.com/kahhaw-thian/s3drop/main/s3drop.py
 chmod +x s3drop.py
 ```
 
@@ -342,7 +342,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ### Development Setup
 
 ```bash
-git clone https://github.com/your-username/s3drop.git
+git clone https://github.com/kahhaw-thian/s3drop.git
 cd s3drop
 pip install -r requirements.txt
 ```
@@ -365,9 +365,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-username/s3drop/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/s3drop/discussions)
-- **Documentation**: [Wiki](https://github.com/your-username/s3drop/wiki)
+- **Issues**: [GitHub Issues](https://github.com/kahhaw-thian/s3drop/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/kahhaw-thian/s3drop/discussions)
+- **Documentation**: [Wiki](https://github.com/kahhaw-thian/s3drop/wiki)
 
 ---
 
