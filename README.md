@@ -8,7 +8,11 @@ S3Drop is a simple, powerful tool for securely sharing files with customers, cli
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![AWS S3](https://img.shields.io/badge/AWS-S3-orange.svg)](https://aws.amazon.com/s3/)
 
-## ✨ Why S3Drop?
+##💔 The Problem We All Face
+You need to share a large file with a customer. Email bounces back - "File too large." You try Dropbox, but they don't have an account. Google Drive? Same issue. WeTransfer? Files disappear after a week, and your client downloads it too late. 
+
+
+## ✨ ✨ The Solution: S3Drop - Upload file to private S3, and get a download link that you can share to anyone with configurable auto-expire download link.
 
 - 🔐 **Secure by default** - Private S3 bucket, no public access
 - ⏰ **Time-limited links** - URLs expire automatically (default: 24 hours)  
